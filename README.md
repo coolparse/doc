@@ -1,3 +1,5 @@
 # doc for CoolParse
 
-official website [https://www.coolparse.com](https://www.coolparse.com)
+Official website [https://www.coolparse.com](https://www.coolparse.com)
+
+ A **Faster** & **Smarter** Web Scraping Tool
